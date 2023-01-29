@@ -1,2 +1,5 @@
 # headphones_on
-Set the Headphones On on Debian and Ubuntu
+##Debian and Ubuntu
+This script set the Headphones ON.
+
+-Add it in ''~/.xprofile''
