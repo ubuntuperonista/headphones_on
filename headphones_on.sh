@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 ## Unmute headphones output (problema con pulseaudio 22.04?)
 amixer set 'Front' on
 read -t 0.0025
